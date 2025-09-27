@@ -1,0 +1,9 @@
+img{
+    width: 200px;
+}
+th,td,caption{
+    border: 2px solid black;
+}
+caption{
+    background-color: #ed601e;
+}
